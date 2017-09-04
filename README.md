@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Add sencha GXT jars to your project's build path
 
-* Lunch the GWT compilation to your project
+* Launch the GWT compilation to your project
 
 * Run 
 
