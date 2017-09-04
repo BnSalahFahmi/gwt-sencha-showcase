@@ -21,10 +21,6 @@ These instructions will get you a copy of the project up and running on your loc
 * Launch the GWT compilation to your project
 
 * Run 
-
-## Built With
-
-* [Maven](https://maven.apache.org/) - Dependency Management
  
 ## Authors
 
